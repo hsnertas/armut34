@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+ }
+
+ body{
+    
+    font-size: 2.2rem;
+    line-height: 1.5;  
+    background: linear-gradient(to right, #33ccff 0%, #99ffcc);
+}
+
+h1{
+    margin-bottom: 2rem;
+    font-size: 5.2rem;
+    line-height: 1.5; 
+    color: white;
+    
+ }
+
+p{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    color: red;
+}
+
+li {
+    margin-top: 10px;
+    padding: 5px 15px;
+    width: 80%;
+    font-size: 2.2rem;
+    line-height: 1.5; 
+    color: white;
+    border: 1px solid  #218838;
+    border-radius: 5px;
+}
+
+hr{
+    border: 1px solid  #218838;
+    margin-bottom: 3rem;
+ }
+
+ /*Cards*/
+.card-block{
+  margin-top: 5rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  padding-bottom: 3rem;
+  padding-top: 3rem;
+  border: 2px solid #218838 ;
+
+}
+
+/* Buttons*/
+.btn{
+    margin-top: 1rem;
+    font-size: 3.2rem;
+    line-height: 1.5; 
+    
+   
+}
+#Submit {
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+    padding: 15px 32px;
+    font-size: 3.2rem;
+    line-height: 1.5;
+    
+}
+
+
+/*Timer*/
+ #currentTime {
+    float: right;
+    background-color: #218838 ;
+    color: white;
+    margin-top: 1rem;
+    font-size:3.2rem ;
+    line-height: 1.5;
+}
+
+/* Questions and Anwers*/
+#questions{
+    font-size: 2.2rem;
+    line-height: 1.5;
+    font-weight: 600;
+    color: white;
+}
+
+
+#answer{
+    text-align: left;
+    font-size: 2.2rem;
+    line-height: 1.5;
+}
+
+/*Input*/
+#initials{
+    padding: 15px 32px;
+    font-size: 3.2rem;
+    line-height: 1.5;     
+}
+
+    
+
